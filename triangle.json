@@ -1,0 +1,16 @@
+{
+    "faces": [0, 1, 2],
+    "uvs": [],
+    "name": "TriangleGeometry.1",
+    "metadata": {
+        "faces": 1,
+        "uvs": 0,
+        "generator": "io_three",
+        "vertices": 3,
+        "version": 3,
+        "normals": 0,
+        "type": "Geometry"
+    },
+    "vertices": [0, 0.5, 0,-0.5, -0.5, 0, 0.5, -0.5, 0],
+    "normals": []
+}

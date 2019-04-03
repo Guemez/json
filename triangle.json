@@ -1,1 +1,4 @@
-{ "name": "Daniela", "age": 20, "hobby": "dying", "address": "dani home", "phone": "331040xxxx"}
+[{ "name": "Daniela", "age": 20, "hobby": "dying", "address": "dani home", "phone": "331040xxxx"},
+ { "name": "Diego", "age": 20, "hobby": "coding", "address": "diego home", "phone": "33xxxxxx10"},
+ { "name": "Oscar", "age": 21, "hobby": "idk", "address": "oscar home", "phone": "33xxxxxx20"},
+ { "name": "Sebastian", "age": 22, "hobby": "being sad", "address": "sebas home", "phone": "33xxxxxx30"}]
